@@ -3,6 +3,8 @@ TripleScreen
 
 Play WoW on 3 monitors. Enlarge you FoV! 🍆
 
+TripleScreen is a simple add-on that allows you to play on 3 monitors, while constraining the UI to the middle monitor. Works using the provided [AutoHotkey](https://www.autohotkey.com/) scripts or any other third party software such as Surround, Eyefinity or Triplewide.
+
 Installation
 ------------
 1. Download and install [AutoHotkey](https://www.autohotkey.com/). You need this free software to force the WoW window to spread on your monitors.
