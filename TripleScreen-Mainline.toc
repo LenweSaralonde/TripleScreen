@@ -1,4 +1,4 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: TripleScreen
 ## Author: LenweSaralonde
 ## Version: 1.0.2
