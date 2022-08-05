@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: TripleScreen
+## Author: LenweSaralonde
+## Version: 1.0.3
+## Notes: Play WoW on 3 monitors. Enlarge you FoV!
+
+TripleScreen.lua
