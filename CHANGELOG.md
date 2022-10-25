@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v1.0.4
+------
+* TOC bump for WoW patch 10.0.0.
+
 v1.0.3
 ------
 * TOC bump for WoW 9.2.5 and WoW Classic 1.14.3.
