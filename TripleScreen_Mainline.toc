@@ -1,7 +1,7 @@
 ## Interface: 100007
 ## Title: TripleScreen
 ## Author: LenweSaralonde
-## Version: 1.0.6
+## Version: 1.0.7
 ## Notes: Play WoW on 3 monitors. Enlarge you FoV!
 
 TripleScreen.lua

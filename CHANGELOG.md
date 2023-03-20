@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v1.0.7
+------
+* TOC bump for WoW patch 10.0.7.
+
 v1.0.6
 ------
 * TOC bump for WoW patch 10.0.5.
