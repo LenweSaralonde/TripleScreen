@@ -1,4 +1,4 @@
-## Interface: 100007
+## Interface: 100105
 ## Title: TripleScreen
 ## Author: LenweSaralonde
 ## Version: 1.0.7
